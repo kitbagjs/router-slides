@@ -31,7 +31,6 @@ layout: intro
   * Best case, router has type for valid route names
 * Include params in query
   * Treat params the same, regardless of where they live
-* Support *most* of the things vue-router supports
 
 ---
 
